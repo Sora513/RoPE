@@ -47,6 +47,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   size: {x: 3, y: 5, z: 5}
   Mass: 100
+  Name: Motor_big
+  coll: 0
 --- !u!1 &888827134688660008
 GameObject:
   m_ObjectHideFlags: 0
